@@ -35,3 +35,5 @@ secrets.json
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+*.swp
+*.lock
