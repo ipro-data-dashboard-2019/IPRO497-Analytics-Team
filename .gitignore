@@ -32,3 +32,6 @@ geo_export_*
 
 # Secrets!
 secrets.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
